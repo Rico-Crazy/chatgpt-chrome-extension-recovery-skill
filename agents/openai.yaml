@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Chrome Extension Recovery"
+  short_description: "Diagnose and recover official ChatGPT Chrome extension installs"
+  default_prompt: "Use $chatgpt-chrome-extension-recovery to diagnose why the official ChatGPT Chrome extension cannot be installed."
